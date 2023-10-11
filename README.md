@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I'm Gabriel Valdez 👋</h1>
 </div>
-<>
+<div align="center">
+<img src="https://i.postimg.cc/wv1RZnPq/Gabriel-Valdez-1.png">
+</div>
 
 ## About me
 
