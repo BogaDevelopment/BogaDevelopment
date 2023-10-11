@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Gabriel Valdez 👋</h1>
 </div>
 <div align="center">
-<img src="https://i.postimg.cc/wv1RZnPq/Gabriel-Valdez-1.png">
+<img src="https://i.postimg.cc/fL85f4dM/Gabriel-Valdez-2.png">
 </div>
 
 ## About me
